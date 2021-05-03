@@ -1,4 +1,6 @@
-# import scapy.all as scapy
+# Made by FoxSinOfGreed
+# Many thanks to Zaid Sabih and Udemy.com
+
 import scapy.all as scapy
 from scapy.layers import http
 from scapy.layers import inet
